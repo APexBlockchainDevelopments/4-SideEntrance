@@ -19,3 +19,9 @@
 [submodule "4-SideEntrance/lib\\forge-std"]
 	path = 4-SideEntrance/lib\\forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "4-SideEntrance/lib\\solmate"]
+	path = 4-SideEntrance/lib\\solmate
+	url = https://github.com/transmissions11/solmate
+[submodule "4-SideEntrance/lib\\solady"]
+	path = 4-SideEntrance/lib\\solady
+	url = https://github.com/Vectorized/solady
