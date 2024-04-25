@@ -16,3 +16,6 @@
 [submodule "3-Truster/lib\\solmate"]
 	path = 3-Truster/lib\\solmate
 	url = https://github.com/transmissions11/solmate
+[submodule "4-SideEntrance/lib\\forge-std"]
+	path = 4-SideEntrance/lib\\forge-std
+	url = https://github.com/foundry-rs/forge-std
