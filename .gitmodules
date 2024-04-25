@@ -10,3 +10,9 @@
 [submodule "3-Truster/lib\\forge-std"]
 	path = 3-Truster/lib\\forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "3-Truster/lib\\openzeppelin-contracts"]
+	path = 3-Truster/lib\\openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule "3-Truster/lib\\solmate"]
+	path = 3-Truster/lib\\solmate
+	url = https://github.com/transmissions11/solmate
