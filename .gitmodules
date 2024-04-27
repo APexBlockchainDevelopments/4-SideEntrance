@@ -28,3 +28,12 @@
 [submodule "5-TheRewarder/lib\\forge-std"]
 	path = 5-TheRewarder/lib\\forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "5-TheRewarder/lib\\solady"]
+	path = 5-TheRewarder/lib\\solady
+	url = https://github.com/Vectorized/solady
+[submodule "5-TheRewarder/lib\\openzeppelin-contracts"]
+	path = 5-TheRewarder/lib\\openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule "5-TheRewarder/lib\\solmate"]
+	path = 5-TheRewarder/lib\\solmate
+	url = https://github.com/transmissions11/solmate
